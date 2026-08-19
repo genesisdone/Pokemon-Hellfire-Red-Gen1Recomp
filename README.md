@@ -1,6 +1,10 @@
-![Pokémon: Hellfire Red logo](assets/menu/pokedoom_logo.png)
+<div align="center">
+
+<img src="assets/menu/pokedoom_logo.png" width="250" alt="Pokémon: Hellfire Red logo">
 
 # Pokemon: Hellfire Red
+
+</div>
 
 A DOOM first-person shooter mode for any voxel mod's
 3D overworld — real DOOM weapons, monsters, pickups, etc.
@@ -84,9 +88,22 @@ game plays normally.
 
 ## Setup
 
-1. Find the mod's own `import/` folder (a sibling of its `main.lua` —
-   see that folder's own `README.txt` for the exact path on your
-   platform).
+1. Find the mod's own `import/` folder:
+
+   **Windows**
+   ```
+   %APPDATA%\pokemon-love2d\mods\POKEDOOM\import\
+   ```
+
+   **macOS**
+   ```
+   ~/Library/Application Support/LOVE/pokemon-love2d/mods/POKEDOOM/import/
+   ```
+
+   **Linux**
+   ```
+   ~/.local/share/pokemon-love2d/mods/POKEDOOM/import/
+   ```
 2. Copy your DOOM WAD file into it.
 3. Copy `game_support.pk3`, the whole file, from your GZDoom install
    folder into the same `import/` folder.
