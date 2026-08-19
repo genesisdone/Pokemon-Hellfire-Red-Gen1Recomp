@@ -1,4 +1,6 @@
-# PokeDoom
+![Pokémon: Hellfire Red logo](assets/menu/pokedoom_logo.png)
+
+# Pokemon: Hellfire Red
 
 A DOOM first-person shooter mode for any voxel mod's
 3D overworld — real DOOM weapons, monsters, pickups, etc.
