@@ -96,22 +96,6 @@ game plays normally.
 
 Your original WAD and pk3 are never modified.
 
-## Usage
-
-- **DOOM MODE** — the master on/off switch.
-- **ENEMY TYPE** — DOOM demons or possessed Pokémon as the ambient
-  hostile roster.
-- **DEMON DIFFICULTY** / **DEMON DENSITY** — tune the ambient roaming
-  encounter rate and toughness.
-- **TOWN INVASIONS** / **INVASION FREQUENCY** — the scripted
-  town-clearing events.
-- **PARTY KILLING** / **PARTY KILL CONFIRMATION** / **POKEMON GORE** —
-  control whether NPCs/Pokémon can be killed at all, whether that needs
-  confirmation, and how graphic it looks.
-- **INFINITE AMMO** / **INFINITE HEALTH**, **STARTING LOADOUT**, **VIEW
-  BOB**, **SCREEN SHAKE**, and more — the full options list lives in the
-  same settings menu, each with its own on-screen description.
-
 ## Credits
 
 - **id Software** — DOOM, the source of every gameplay mechanic this mod
